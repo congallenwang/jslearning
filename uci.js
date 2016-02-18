@@ -4,7 +4,7 @@
         console.log("call uci constructor");
     }
 
-    tCI.prototype.$init = function(config){
+    UCI.prototype.$init = function(config){
         this.config = config;
     }
 
